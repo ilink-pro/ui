@@ -6,8 +6,8 @@ import { Layout }      from '../layout'
 const Column = styled(Layout)<LayoutProps>()
 
 Column.defaultProps = {
-  boxSizing: 'border-box',
   flexDirection: 'column',
+  boxSizing: 'border-box',
   display: 'flex',
   height: '100%',
 }
