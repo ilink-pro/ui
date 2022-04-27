@@ -1,0 +1,12 @@
+releases:
+  "@ilink-ui-generators/button": patch
+  "@ilink-ui-parts/avatar": patch
+  "@ilink-ui-parts/button": patch
+  "@ilink-ui-parts/conditional-render": patch
+  "@ilink-ui-parts/dom": patch
+  "@ilink-ui-parts/events-state": patch
+  "@ilink-ui-parts/image": patch
+  "@ilink-ui-parts/input": patch
+  "@ilink-ui-parts/link": patch
+  "@ilink-ui-parts/scalable-content": patch
+  "@ilink-ui-parts/upload": patch
