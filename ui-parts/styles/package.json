@@ -12,8 +12,8 @@
     "postpack": "rm -rf dist"
   },
   "devDependencies": {
-    "styled-system": "^5.1.5",
-    "@types/styled-system": "^5.1.11"
+    "@types/styled-system": "^5.1.11",
+    "styled-system": "^5.1.5"
   },
   "peerDependencies": {
     "styled-system": "^5.1.5"

@@ -1,0 +1,8 @@
+releases:
+  "@ilink-ui-generators/button": patch
+  "@ilink-ui-parts/avatar": patch
+  "@ilink-ui-parts/button": patch
+  "@ilink-ui-parts/input": patch
+  "@ilink-ui-parts/select": patch
+  "@ilink-ui-parts/styles": patch
+  "@ilink-ui-parts/upload": patch
