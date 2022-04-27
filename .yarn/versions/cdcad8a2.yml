@@ -1,0 +1,3 @@
+releases:
+  "@ilink-ui-parts/input": patch
+  "@ilink-ui-parts/layout": patch
