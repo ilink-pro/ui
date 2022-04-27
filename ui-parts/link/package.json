@@ -1,6 +1,6 @@
 {
   "name": "@ilink-ui-parts/link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "BSD-3-Clause",
   "main": "src/index.ts",
   "files": [
@@ -12,7 +12,7 @@
     "postpack": "rm -rf dist"
   },
   "dependencies": {
-    "@ilink-ui-parts/text": "workspace:0.0.0"
+    "@ilink-ui-parts/text": "workspace:0.0.1"
   },
   "devDependencies": {
     "@emotion/css": "^11.7.1",

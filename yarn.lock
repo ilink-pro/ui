@@ -2249,7 +2249,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/avatar@workspace:0.0.3, @ilink-ui-parts/avatar@workspace:ui-parts/avatar":
+"@ilink-ui-parts/avatar@workspace:0.0.4, @ilink-ui-parts/avatar@workspace:ui-parts/avatar":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/avatar@workspace:ui-parts/avatar"
   dependencies:
@@ -2257,7 +2257,7 @@ __metadata:
     "@ilink-ui-parts/image": "workspace:0.0.1"
     "@ilink-ui-parts/scalable-content": "workspace:0.0.1"
     "@ilink-ui-parts/styles": "workspace:0.0.1"
-    "@ilink-ui-parts/text-transform": "workspace:0.0.0"
+    "@ilink-ui-parts/text-transform": "workspace:0.0.1"
     "@ilinkdev/storybook-google-fonts": "workspace:0.0.1"
     "@types/jest": ^26.0.22
     "@types/node": ^14.14.41
@@ -2319,9 +2319,9 @@ __metadata:
     "@emotion/babel-plugin": ^11.3.0
     "@emotion/react": ^11.1.5
     "@emotion/styled": ^11.3.0
-    "@ilink-ui-parts/avatar": "workspace:0.0.3"
+    "@ilink-ui-parts/avatar": "workspace:0.0.4"
     "@ilink-ui-parts/button": "workspace:0.0.3"
-    "@ilink-ui-parts/input": "workspace:0.0.3"
+    "@ilink-ui-parts/input": "workspace:0.0.4"
     "@ilinkdev/storybook-addon-development-templates": "workspace:0.0.1"
     "@storybook/addon-actions": ^6.4.22
     "@storybook/addon-docs": ^6.4.22
@@ -2385,7 +2385,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/input@workspace:0.0.3, @ilink-ui-parts/input@workspace:ui-parts/input":
+"@ilink-ui-parts/input@workspace:0.0.4, @ilink-ui-parts/input@workspace:ui-parts/input":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/input@workspace:ui-parts/input"
   dependencies:
@@ -2394,7 +2394,7 @@ __metadata:
     "@ilink-ui-parts/events-state": "workspace:0.0.1"
     "@ilink-ui-parts/layout": "workspace:0.0.1"
     "@ilink-ui-parts/styles": "workspace:0.0.1"
-    "@ilink-ui-parts/upload": "workspace:0.0.2"
+    "@ilink-ui-parts/upload": "workspace:0.0.3"
     "@ilinkdev/storybook-google-fonts": "workspace:0.0.1"
     "@types/jest": ^26.0.22
     "@types/react": ^18.0.7
@@ -2432,7 +2432,7 @@ __metadata:
   dependencies:
     "@emotion/css": ^11.7.1
     "@emotion/styled": ^11.3.0
-    "@ilink-ui-parts/text": "workspace:0.0.0"
+    "@ilink-ui-parts/text": "workspace:0.0.1"
     "@types/react": ^17.0.44
     "@types/styled-system": ^5.1.11
     next: ^12.1.5
@@ -2505,7 +2505,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/text-transform@workspace:0.0.0, @ilink-ui-parts/text-transform@workspace:ui-parts/text-transform":
+"@ilink-ui-parts/text-transform@workspace:0.0.1, @ilink-ui-parts/text-transform@workspace:ui-parts/text-transform":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/text-transform@workspace:ui-parts/text-transform"
   dependencies:
@@ -2519,7 +2519,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/text@workspace:0.0.0, @ilink-ui-parts/text@workspace:ui-parts/text":
+"@ilink-ui-parts/text@workspace:0.0.1, @ilink-ui-parts/text@workspace:ui-parts/text":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/text@workspace:ui-parts/text"
   dependencies:
@@ -2534,12 +2534,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/upload@workspace:0.0.2, @ilink-ui-parts/upload@workspace:ui-parts/upload":
+"@ilink-ui-parts/upload@workspace:0.0.3, @ilink-ui-parts/upload@workspace:ui-parts/upload":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/upload@workspace:ui-parts/upload"
   dependencies:
     "@atls/react-upload": ^0.0.3
-    "@ilink-ui-parts/avatar": "workspace:0.0.3"
+    "@ilink-ui-parts/avatar": "workspace:0.0.4"
     "@types/node": ^14.14.41
     "@types/react": ^18.0.7
     graphql: ^16.3.0
