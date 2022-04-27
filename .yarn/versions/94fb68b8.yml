@@ -1,0 +1,7 @@
+releases:
+  "@ilink-ui-parts/avatar": patch
+  "@ilink-ui-parts/input": patch
+  "@ilink-ui-parts/link": patch
+  "@ilink-ui-parts/text": patch
+  "@ilink-ui-parts/text-transform": patch
+  "@ilink-ui-parts/upload": patch
