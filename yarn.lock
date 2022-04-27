@@ -2241,7 +2241,7 @@ __metadata:
   dependencies:
     "@atls/config-prettier": ^0.0.4
     "@atls/prettier-plugin": ^0.0.4
-    "@ilink-ui-parts/button": "workspace:0.0.0"
+    "@ilink-ui-parts/button": "workspace:0.0.1"
     "@types/prettier": ^2
     camelcase: ^6.3.0
     prettier: 2.5.1
@@ -2249,7 +2249,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/avatar@workspace:0.0.0, @ilink-ui-parts/avatar@workspace:ui-parts/avatar":
+"@ilink-ui-parts/avatar@workspace:0.0.1, @ilink-ui-parts/avatar@workspace:ui-parts/avatar":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/avatar@workspace:ui-parts/avatar"
   dependencies:
@@ -2275,7 +2275,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/button@workspace:0.0.0, @ilink-ui-parts/button@workspace:ui-parts/button":
+"@ilink-ui-parts/button@workspace:0.0.1, @ilink-ui-parts/button@workspace:ui-parts/button":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/button@workspace:ui-parts/button"
   dependencies:
@@ -2319,8 +2319,8 @@ __metadata:
     "@emotion/babel-plugin": ^11.3.0
     "@emotion/react": ^11.1.5
     "@emotion/styled": ^11.3.0
-    "@ilink-ui-parts/avatar": "workspace:0.0.0"
-    "@ilink-ui-parts/button": "workspace:0.0.0"
+    "@ilink-ui-parts/avatar": "workspace:0.0.1"
+    "@ilink-ui-parts/button": "workspace:0.0.1"
     "@ilink-ui-parts/input": "workspace:0.0.0"
     "@ilinkdev/storybook-addon-development-templates": "workspace:0.0.1"
     "@storybook/addon-actions": ^6.4.22
@@ -2539,7 +2539,7 @@ __metadata:
   resolution: "@ilink-ui-parts/upload@workspace:ui-parts/upload"
   dependencies:
     "@atls/react-upload": ^0.0.3
-    "@ilink-ui-parts/avatar": "workspace:0.0.0"
+    "@ilink-ui-parts/avatar": "workspace:0.0.1"
     "@types/node": ^14.14.41
     "@types/react": ^18.0.7
     graphql: ^16.3.0
@@ -2559,7 +2559,7 @@ __metadata:
     "@emotion/babel-plugin": ^11.3.0
     "@emotion/react": ^11.1.5
     "@emotion/styled": ^11.3.0
-    "@ilink-ui-parts/button": "workspace:0.0.0"
+    "@ilink-ui-parts/button": "workspace:0.0.1"
     "@ilinkdev/storybook-addon-development-templates": "workspace:0.0.1"
     "@mdx-js/react": ^1.6.22
     "@storybook/addon-actions": ^6.4.22
