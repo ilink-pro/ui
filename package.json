@@ -5,7 +5,8 @@
   "workspaces": [
     "generators/*",
     "storybook/*",
-    "ui-parts/*"
+    "ui-parts/*",
+    "ui/*"
   ],
   "resolutions": {
     "@testing-library/react": "10",
