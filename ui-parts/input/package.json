@@ -1,6 +1,6 @@
 {
   "name": "@ilink-ui-parts/input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "BSD-3-Clause",
   "main": "src/index.ts",
   "files": [
@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "@ilink-ui-parts/events-state": "workspace:0.0.1",
-    "@ilink-ui-parts/styles": "workspace:0.0.0"
+    "@ilink-ui-parts/styles": "workspace:0.0.1"
   },
   "devDependencies": {
     "@emotion/styled": "^11.3.0",
     "@ilink-ui-parts/conditional-render": "workspace:0.0.1",
     "@ilink-ui-parts/layout": "workspace:0.0.0",
-    "@ilink-ui-parts/upload": "workspace:0.0.1",
+    "@ilink-ui-parts/upload": "workspace:0.0.2",
     "@ilinkdev/storybook-google-fonts": "workspace:0.0.1",
     "@types/jest": "^26.0.22",
     "@types/react": "^18.0.7",
