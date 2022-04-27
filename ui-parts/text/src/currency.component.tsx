@@ -8,8 +8,8 @@ import { Text }          from './text.component'
 
 const CurrencyChildren: FC<CurrencyProps> = ({
   amount,
-  currency,
   locale,
+  currency,
   options,
   keepZeros = false,
   currencySignPlacement = 'suffix',
