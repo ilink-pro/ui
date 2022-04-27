@@ -29,8 +29,8 @@ export default {
 export const Button = ({
   containerWith,
   children,
-  childrenPrefix,
   childrenSuffix,
+  childrenPrefix,
   size,
   fontFamily,
   fontSize,

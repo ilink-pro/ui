@@ -1,0 +1,36 @@
+{
+  "name": "@ilink-ui-parts/link",
+  "version": "0.0.0",
+  "license": "BSD-3-Clause",
+  "main": "src/index.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "yarn library build",
+    "prepack": "yarn run build",
+    "postpack": "rm -rf dist"
+  },
+  "dependencies": {
+    "@ilink-ui-parts/text": "workspace:0.0.0"
+  },
+  "devDependencies": {
+    "@emotion/css": "^11.7.1",
+    "@emotion/styled": "^11.3.0",
+    "@types/react": "^18.0.7",
+    "@types/styled-system": "^5.1.11",
+    "next": "^11.0.0",
+    "react": "^17.0.2"
+  },
+  "peerDependencies": {
+    "@emotion/styled": "^11.1.5",
+    "next": "*",
+    "react": "^17.0.1",
+    "styled-system": "^5.1.5"
+  },
+  "publishConfig": {
+    "access": "public",
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts"
+  }
+}
