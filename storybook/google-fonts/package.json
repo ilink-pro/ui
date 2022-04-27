@@ -1,0 +1,15 @@
+{
+  "name": "@ilinkdev/storybook-google-fonts",
+  "version": "0.0.1",
+  "private": true,
+  "license": "BSD-3-Clause",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "google-fonts-complete": "^2.1.1",
+    "google-fonts-loader": "^1.0.0",
+    "react": "^17.0.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}
