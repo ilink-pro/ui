@@ -2321,7 +2321,7 @@ __metadata:
     "@emotion/styled": ^11.3.0
     "@ilink-ui-parts/avatar": "workspace:0.0.3"
     "@ilink-ui-parts/button": "workspace:0.0.3"
-    "@ilink-ui-parts/input": "workspace:0.0.2"
+    "@ilink-ui-parts/input": "workspace:0.0.3"
     "@ilinkdev/storybook-addon-development-templates": "workspace:0.0.1"
     "@storybook/addon-actions": ^6.4.22
     "@storybook/addon-docs": ^6.4.22
@@ -2385,14 +2385,14 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/input@workspace:0.0.2, @ilink-ui-parts/input@workspace:ui-parts/input":
+"@ilink-ui-parts/input@workspace:0.0.3, @ilink-ui-parts/input@workspace:ui-parts/input":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/input@workspace:ui-parts/input"
   dependencies:
     "@emotion/styled": ^11.3.0
     "@ilink-ui-parts/conditional-render": "workspace:0.0.1"
     "@ilink-ui-parts/events-state": "workspace:0.0.1"
-    "@ilink-ui-parts/layout": "workspace:0.0.0"
+    "@ilink-ui-parts/layout": "workspace:0.0.1"
     "@ilink-ui-parts/styles": "workspace:0.0.1"
     "@ilink-ui-parts/upload": "workspace:0.0.2"
     "@ilinkdev/storybook-google-fonts": "workspace:0.0.1"
@@ -2410,7 +2410,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ilink-ui-parts/layout@workspace:0.0.0, @ilink-ui-parts/layout@workspace:ui-parts/layout":
+"@ilink-ui-parts/layout@workspace:0.0.1, @ilink-ui-parts/layout@workspace:ui-parts/layout":
   version: 0.0.0-use.local
   resolution: "@ilink-ui-parts/layout@workspace:ui-parts/layout"
   dependencies:

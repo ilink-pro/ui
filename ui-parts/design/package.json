@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.3.0",
     "@ilink-ui-parts/avatar": "workspace:0.0.3",
     "@ilink-ui-parts/button": "workspace:0.0.3",
-    "@ilink-ui-parts/input": "workspace:0.0.2",
+    "@ilink-ui-parts/input": "workspace:0.0.3",
     "@ilinkdev/storybook-addon-development-templates": "workspace:0.0.1",
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-docs": "^6.4.22",
