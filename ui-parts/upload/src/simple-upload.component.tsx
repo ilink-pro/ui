@@ -17,8 +17,8 @@ export interface UploadResult {
 
 export interface SimpleUploadProps {
   children: ReactElement<any, any>
-  bucket: string
   accept?: string
+  bucket: string
   multiple?: boolean
   onFile: (result: UploadResult) => void
   onPreview?: (result: UploadResult) => void

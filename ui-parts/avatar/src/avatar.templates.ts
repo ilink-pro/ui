@@ -27,8 +27,8 @@ export const stylesTemplate = ({
 import { prop, switchProp } from 'styled-tools'
 
 import { createBaseStyles } from '@ilink-ui-parts/avatar'
-import { createShapeStyles } from '@ilink-ui-parts/avatar'
 import { createAppearanceStyles } from '@ilink-ui-parts/avatar'
+import { createShapeStyles } from '@ilink-ui-parts/avatar'
 
 const shapeNormalSizeStyles = createShapeStyles({
 ${buildProps({
