@@ -2551,6 +2551,25 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@ilink-ui-proto/divider@workspace:ui-proto/divider":
+  version: 0.0.0-use.local
+  resolution: "@ilink-ui-proto/divider@workspace:ui-proto/divider"
+  dependencies:
+    "@emotion/styled": ^11.3.0
+    "@ilink-ui-parts/layout": "workspace:0.0.2"
+    "@types/react": ^18.0.7
+    "@types/styled-system": ^5.1.11
+    react: ^17.0.2
+    styled-system: ^5.1.5
+    styled-tools: ^1.7.2
+  peerDependencies:
+    "@emotion/styled": ^11.1.5
+    react: ^17.0.1
+    styled-system: ^5.1.5
+    styled-tools: ^1.7.2
+  languageName: unknown
+  linkType: soft
+
 "@ilinkdev/design@workspace:ui/design":
   version: 0.0.0-use.local
   resolution: "@ilinkdev/design@workspace:ui/design"

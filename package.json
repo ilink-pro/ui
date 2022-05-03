@@ -5,6 +5,7 @@
   "workspaces": [
     "generators/*",
     "storybook/*",
+    "ui-proto/*",
     "ui-parts/*",
     "ui/*"
   ],
