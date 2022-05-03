@@ -97,6 +97,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "reference": "workspace:ui-parts/upload"\
       },\
       {\
+        "name": "@ilink-ui-proto/divider",\
+        "reference": "workspace:ui-proto/divider"\
+      },\
+      {\
         "name": "@ilinkdev/design",\
         "reference": "workspace:ui/design"\
       }\
@@ -121,6 +125,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ["@ilink-ui-parts/text", ["virtual:e001fd52f99695aafe30a932576d17f90411cd9f69ea07b6f05ff80ace7e293501fe7854e7a848445c94deaa9e2736a213f4b375d8637b89bd12c5cfae7cf8c1#workspace:ui-parts/text", "workspace:ui-parts/text"]],\
       ["@ilink-ui-parts/text-transform", ["virtual:77ed7e39f37368d46ba7887242056863452a23dd114d20488ae2325198d6532c41d0ecdfa1ffbabd944908427e79dcfeed467dfd6dac73db27f3636c5b312e28#workspace:ui-parts/text-transform", "workspace:ui-parts/text-transform"]],\
       ["@ilink-ui-parts/upload", ["virtual:7d850add0719e4762e4ae32ea16dcfe5a2c3bb8480f534443b0f607f6c7307fff5389db2afa5e05bb6df41e796726e8979029ffd8e2dc6b88b9ad1914597d244#workspace:ui-parts/upload", "workspace:ui-parts/upload"]],\
+      ["@ilink-ui-proto/divider", ["workspace:ui-proto/divider"]],\
       ["@ilinkdev/design", ["workspace:ui/design"]],\
       ["@ilinkdev/storybook-addon-development-templates", ["workspace:storybook/addon-development-templates"]],\
       ["@ilinkdev/storybook-google-fonts", ["virtual:5f768f545aab62ab561286a3e23ca9a58512e78471e0b3f3ed443adb486d1f2992a50177043d2f297c633dd0124be69e55dc457d5d5aa1082b0f68edca54b08a#workspace:storybook/google-fonts", "workspace:storybook/google-fonts"]],\
@@ -4820,6 +4825,22 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["graphql", "npm:16.4.0"],\
             ["react", "npm:17.0.2"],\
             ["react-dropzone", "virtual:209d6bb54bfccdebd57a18f5d3ecbc7dded00c5ddaf65b76e2a8ccac8565238828ef7cca3089303d28d3d77dcd2f0702bddcab7303819a13c5666fcdc6746612#npm:12.1.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }]\
+      ]],\
+      ["@ilink-ui-proto/divider", [\
+        ["workspace:ui-proto/divider", {\
+          "packageLocation": "./ui-proto/divider/",\
+          "packageDependencies": [\
+            ["@ilink-ui-proto/divider", "workspace:ui-proto/divider"],\
+            ["@emotion/styled", "virtual:5f768f545aab62ab561286a3e23ca9a58512e78471e0b3f3ed443adb486d1f2992a50177043d2f297c633dd0124be69e55dc457d5d5aa1082b0f68edca54b08a#npm:11.8.1"],\
+            ["@ilink-ui-parts/layout", "virtual:dbde6ef0983039db5b1cef53616c652278ba974787f3f88d2868b1a9e6ea6db47a13c7acf7dbbc9865dda704a5abebe7fe59669a529a898ed78f4bca609056b1#workspace:ui-parts/layout"],\
+            ["@types/react", "npm:17.0.44"],\
+            ["@types/styled-system", "npm:5.1.15"],\
+            ["react", "npm:17.0.2"],\
+            ["styled-system", "npm:5.1.5"],\
+            ["styled-tools", "npm:1.7.2"]\
           ],\
           "linkType": "SOFT"\
         }]\
