@@ -1,2 +1,2 @@
-export * from './exec-and-serialize'
 export * from './combine'
+export * from './exec-and-serialize'
