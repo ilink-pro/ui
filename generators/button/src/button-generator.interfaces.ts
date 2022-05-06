@@ -6,8 +6,8 @@ export interface Scheme {
 
 export type ButtonColorSchemes = {
   [key: string]: {
-    default: Scheme
     pressed: Scheme
+    default: Scheme
     hover: Scheme
     disabled: Scheme
     [key: string]: Scheme
