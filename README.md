@@ -24,7 +24,7 @@
 
 Для этого есть storybook. Он находится в пакете design. Для запуска нужно выполнить скрипт `dev` внутри пакета design.
 
-**Пример:** `yarn workspace @ilink-ui-proto/design dev`
+**Пример:** `yarn workspace @ilink-ui-parts/design dev`
 
 ## Основные сущности, нуждающиеся в разъяснении
 
